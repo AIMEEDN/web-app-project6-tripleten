@@ -1,4 +1,5 @@
 # web-app-project6-tripleten
+URL de la aplicación https://web-app-project6-tripleten.onrender.com/
 Aplicación web para un análisis de datos con Python; ésta aplicación permite a los usuarios analizar y visualizar datos de vehículos a través de dos herramientas gráficas:
 
 1)Histograma de Kilometraje: Muestra la distribución del kilometraje de los vehículos, permitiendo identificar cómo se agrupan los vehículos en diferentes rangos de kilometraje. Esto ayuda a entender cuántos vehículos tienen un determinado kilometraje y a detectar patrones comunes en el uso de los vehículos.
